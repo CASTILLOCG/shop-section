@@ -6,336 +6,336 @@
 Blocks:
   1:
     material: "BOOKSHELF"
-    buy: 119.12
-    sell: 29.78
+    buy: 90.00
+    sell: 5.00
   2:
     material: "HAY_BLOCK"
-    buy: 47.25
-    sell: 11.82
+    buy: 40.00
+    sell: 5.00
   3:
     material: "HONEY_BLOCK"
-    buy: 33.34
-    sell: 8.34
+    buy: 30.00
+    sell: 8.00
   4:
     material: "MAGMA_BLOCK"
-    buy: 33.63
-    sell: 8.41
+    buy: 5.00
+    sell: 1.25
   5:
     material: "PACKED_ICE"
-    buy: 13.5
-    sell: 3.38
+    buy: 10.00
+    sell: 1.00
   6:
     material: "SLIME_BLOCK"
-    buy: 47.25
-    sell: 11.82
+    buy: 10.00
+    sell: 2.00
   7:
     material: "SNOW_BLOCK"
-    buy: 12.6
-    sell: 3.15
+    buy: 3.25
+    sell: 0.50
   8:
     material: "SOUL_SAND"
-    buy: 10
-    sell: 2.5
+    buy: 5.00
+    sell: 0.20
   9:
     material: "STONE"
-    buy: 0.72
-    sell: 0.18
+    buy: 0.10
+    sell: 0.05
   10:
     material: "TNT"
-    buy: 106.58
-    sell: 26.65
+    buy: 125.00
+    sell: 25.00
   11:
     material: "GLOWSTONE"
-    buy: 29.4
-    sell: 7.35
+    buy: 12.00
+    sell: 0.50
   12:
     material: "SEA_LANTERN"
-    buy: 66.15
-    sell: 16.54
+    buy: 20.00
+    sell: 8.00
   13:
     material: "SHROOMLIGHT"
     buy: 8
     sell: 2
   14:
     material: "ANDESITE"
-    buy: 0.72
-    sell: 0.18
+    buy: 0.10
+    sell: 0.05
   15:
     material: "POLISHED_ANDESITE"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.15
+    sell: 0.08
   16:
     material: "POLISHED_ANDESITE_SLAB"
-    buy: 0.38
-    sell: 0.1
+    buy: 0.07
+    sell: 0.05
   17:
     material: "POLISHED_ANDESITE_STAIRS"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.15
+    sell: 0.08
   18:
     material: "BLACKSTONE"
-    buy: 0.75
-    sell: 0.19
+    buy: 2.00
+    sell: 0.20
   19:
     material: "POLISHED_BLACKSTONE"
-    buy: 0.79
-    sell: 0.2
+    buy: 3.00
+    sell: 0.25
   20:
     material: "POLISHED_BLACKSTONE_BRICK_SLAB"
-    buy: 0.4
-    sell: 0.1
+    buy: 1.50
+    sell: 0.13
   21:
     material: "POLISHED_BLACKSTONE_BRICK_STAIRS"
-    buy: 0.79
-    sell: 0.2
+    buy: 3.00
+    sell: 0.25
   22:
     material: "POLISHED_BLACKSTONE_BRICKS"
-    buy: 0.79
-    sell: 0.2
+    buy: 3.00
+    sell: 0.25
   23:
     material: "BRICK_SLAB"
-    buy: 48.63
-    sell: 12.16
+    buy: 2.00
+    sell: 0.80
   24:
     material: "BRICK_STAIRS"
-    buy: 97.25
-    sell: 24.32
+    buy: 4.00
+    sell: 1.50
   25:
     material: "BRICKS"
-    buy: 92.61
-    sell: 23.16
+    buy: 4.00
+    sell: 1.50
   26:
     material: "BASALT"
-    buy: 40
-    sell: 10
+    buy: 2.00
+    sell: 0.10
   27:
     material: "COBBLESTONE"
-    buy: 0.68
-    sell: 0.17
+    buy: 0.10
+    sell: 0.05
   28:
     material: "MOSSY_COBBLESTONE"
-    buy: 8.07
-    sell: 2.02
+    buy: 3.00
+    sell: 1.00
   29:
     material: "BLACK_CONCRETE"
-    buy: 8.41
-    sell: 2.11
+    buy: 3.00
+    sell: 1.00
   30:
     material: "BLUE_CONCRETE"
-    buy: 9.71
-    sell: 2.43
+    buy: 3.00
+    sell: 1.00
   31:
     material: "BROWN_CONCRETE"
-    buy: 8.55
-    sell: 2.14
+    buy: 3.00
+    sell: 1.00
   32:
     material: "CYAN_CONCRETE"
-    buy: 7.81
-    sell: 1.96
+    buy: 3.00
+    sell: 1.00
   33:
     material: "GRAY_CONCRETE"
-    buy: 8.22
-    sell: 2.06
+    buy: 3.00
+    sell: 1.00
   34:
     material: "GREEN_CONCRETE"
-    buy: 7.74
-    sell: 1.94
+    buy: 3.00
+    sell: 1.00
   35:
     material: "LIGHT_BLUE_CONCRETE"
-    buy: 7.87
-    sell: 1.97
+    buy: 3.00
+    sell: 1.00
   36:
     material: "LIGHT_GRAY_CONCRETE"
-    buy: 7.87
-    sell: 1.97
+    buy: 3.00
+    sell: 1.00
   37:
     material: "LIME_CONCRETE"
-    buy: 30.87
-    sell: 7.72
+    buy: 3.00
+    sell: 1.00
   38:
     material: "MAGENTA_CONCRETE"
-    buy: 30.87
-    sell: 7.72
+    buy: 3.00
+    sell: 1.00
   39:
     material: "ORANGE_CONCRETE"
-    buy: 30.87
-    sell: 7.72
+    buy: 3.00
+    sell: 1.00
   40:
     material: "PINK_CONCRETE"
-    buy: 30.87
-    sell: 7.72
+    buy: 3.00
+    sell: 1.00
   41:
     material: "PURPLE_CONCRETE"
-    buy: 30.87
-    sell: 7.72
+    buy: 3.00
+    sell: 1.00
   42:
     material: "RED_CONCRETE"
-    buy: 7.87
-    sell: 1.97
+    buy: 3.00
+    sell: 1.00
   43:
     material: "WHITE_CONCRETE"
-    buy: 8.01
-    sell: 2.01
+    buy: 3.00
+    sell: 1.00
   44:
     material: "YELLOW_CONCRETE"
-    buy: 7.82
-    sell: 1.96
+    buy: 3.00
+    sell: 1.00
   45:
     material: "DIORITE"
-    buy: 0.72
-    sell: 0.18
+    buy: 0.10
+    sell: 0.05
   46:
     material: "POLISHED_DIORITE"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.10
   47:
     material: "POLISHED_DIORITE_SLAB"
-    buy: 0.38
-    sell: 0.1
+    buy: 0.10
+    sell: 0.05
   48:
     material: "POLISHED_DIORITE_STAIRS"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.10
   49:
     material: "CLAY"
-    buy: 21
-    sell: 5.25
+    buy: 2.00
+    sell: 0.70
   50:
     material: "CRIMSON_NYLIUM"
-    buy: 6
-    sell: 1.5
+    buy: 2.00
+    sell: 0.50
   51:
     material: "DIRT"
-    buy: 3
-    sell: 0.75
+    buy: 1.00
+    sell: 0.05
   52:
     material: "GRASS_BLOCK"
-    buy: 8
-    sell: 2
+    buy: 1.25
+    sell: 0.10
   53:
     material: "GRAVEL"
-    buy: 8
-    sell: 2
+    buy: 1.00
+    sell: 0.20
   54:
     material: "MYCELIUM"
-    buy: 8
-    sell: 2
+    buy: 5.00
+    sell: 0.50
   55:
     material: "PODZOL"
-    buy: 8
-    sell: 2
+    buy: 1.50
+    sell: 0.20
   56:
     material: "WARPED_NYLIUM"
-    buy: 6
-    sell: 1.5
+    buy: 2.00
+    sell: 0.10
   57:
     material: "END_STONE"
-    buy: 5
-    sell: 1.25
+    buy: 1.00
+    sell: 0.20
   58:
     material: "END_STONE_BRICK_SLAB"
-    buy: 2.63
-    sell: 0.66
+    buy: 1.00
+    sell: 0.12
   59:
     material: "END_STONE_BRICK_STAIRS"
-    buy: 5.25
-    sell: 1.32
+    buy: 1.25
+    sell: 0.25
   60:
     material: "END_STONE_BRICKS"
-    buy: 5.25
-    sell: 1.32
+    buy: 1.25
+    sell: 0.25
   61:
     material: "GLASS"
-    buy: 6.3
-    sell: 1.58
+    buy: 1.00
+    sell: 0.30
   62:
     material: "GLASS_PANE"
-    buy: 2.49
-    sell: 0.63
+    buy: 1.00
+    sell: 0.05
   63:
     material: "GRANITE"
-    buy: 0.72
-    sell: 0.18
+    buy: 0.10
+    sell: 0.05
   64:
     material: "POLISHED_GRANITE"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.07
   65:
     material: "POLISHED_GRANITE_SLAB"
-    buy: 0.38
-    sell: 0.1
+    buy: 0.10
+    sell: 0.03
   66:
     material: "POLISHED_GRANITE_STAIRS"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.07
   67:
     material: "NETHERRACK"
-    buy: 0.2
+    buy: 0.20
     sell: 0.05
   68:
     material: "NETHER_BRICK_SLAB"
-    buy: 0.47
-    sell: 0.12
+    buy: 0.20
+    sell: 0.05
   69:
     material: "NETHER_BRICK_STAIRS"
-    buy: 0.93
-    sell: 0.24
+    buy: 0.40
+    sell: 0.10
   70:
     material: "NETHER_BRICKS"
-    buy: 0.89
-    sell: 0.23
+    buy: 0.40
+    sell: 0.10
   71:
     material: "RED_NETHER_BRICK_SLAB"
-    buy: 4.28
-    sell: 1.07
+    buy: 2.00
+    sell: 1.00
   72:
     material: "RED_NETHER_BRICK_STAIRS"
-    buy: 8.56
-    sell: 2.14
+    buy: 4.00
+    sell: 1.00
   73:
     material: "RED_NETHER_BRICKS"
-    buy: 8.16
-    sell: 2.04
+    buy: 4.00
+    sell: 1.00
   74:
     material: "CRYING_OBSIDIAN"
-    buy: 62.5
-    sell: 15.63
+    buy: 30.00
+    sell: 20.00
   75:
     material: "OBSIDIAN"
-    buy: 31.25
-    sell: 7.82
+    buy: 6.00
+    sell: 3.00
   76:
     material: "PRISMARINE"
-    buy: 29.4
-    sell: 7.35
+    buy: 10.00
+    sell: 5.00
   77:
     material: "PRISMARINE_SLAB"
-    buy: 15.44
-    sell: 3.86
+    buy: 5.00
+    sell: 2.25
   78:
     material: "PRISMARINE_STAIRS"
-    buy: 30.87
-    sell: 7.72
+    buy: 10.00
+    sell: 5.00
   79:
     material: "PRISMARINE_BRICK_SLAB"
-    buy: 34.73
-    sell: 8.69
+    buy: 12.00
+    sell: 6.25
   80:
     material: "PRISMARINE_BRICK_STAIRS"
-    buy: 69.46
-    sell: 17.37
+    buy: 12.00
+    sell: 6.25
   81:
     material: "PRISMARINE_BRICKS"
-    buy: 66.15
-    sell: 16.54
+    buy: 12.00
+    sell: 6.25
   82:
     material: "DARK_PRISMARINE"
-    buy: 64.05
-    sell: 16.02
+    buy: 14.00
+    sell: 7.00
   83:
     material: "DARK_PRISMARINE_SLAB"
-    buy: 33.63
-    sell: 8.41
+    buy: 7.00
+    sell: 3.50
   84:
     material: "DARK_PRISMARINE_STAIRS"
     buy: 67.26
@@ -2987,6 +2987,185 @@ SpawnEggs:
   63:
     material: "ZOMBIFIED_PIGLIN_SPAWN_EGG"
     buy: 999999999
+    sell: -1
+
+#==================== Spawners ====================#
+
+Spawners:
+  1:
+    material: "SPAWNER"
+    spawnertype: "BLAZE"
+    displayname: "&c[&bBlaze Spawner&c]"
+    name: "&c[&bBlaze Spawner&c]"
+    buy: 125000
+    sell: -1
+  2:
+    material: "SPAWNER"
+    spawnertype: "CHICKEN"
+    displayname: "&c[&bChicken Spawner&c]"
+    name: "&c[&bChicken Spawner&c]"
+    buy: 15000
+    sell: -1
+  3:
+    material: "SPAWNER"
+    spawnertype: "COW"
+    displayname: "&c[&bCow Spawner&c]"
+    name: "&c[&bCow Spawner&c]"
+    buy: 100000
+    sell: -1
+  4:
+    material: "SPAWNER"
+    spawnertype: "CREEPER"
+    displayname: "&c[&bCreeper Spawner&c]"
+    name: "&c[&bCreeper Spawner&c]"
+    buy: 150000
+    sell: -1
+  5:
+    material: "SPAWNER"
+    spawnertype: "ENDERMAN"
+    displayname: "&c[&bEnderman Spawner&c]"
+    name: "&c[&bEnderman Spawner&c]"
+    buy: 175000
+    sell: -1
+  6:
+    material: "SPAWNER"
+    spawnertype: "HORSE"
+    displayname: "&c[&bHorse Spawner&c]"
+    name: "&c[&bHorse Spawner&c]"
+    buy: 65000
+    sell: -1
+  7:
+    material: "SPAWNER"
+    spawnertype: "HUSK"
+    displayname: "&c[&bHusk Spawner&c]"
+    name: "&c[&bHusk Spawner&c]"
+    buy: 125000
+    sell: -1
+  8:
+    material: "SPAWNER"
+    spawnertype: "IRON_GOLEM"
+    displayname: "&c[&bIron Golem Spawner&c]"
+    name: "&c[&bIron Golem Spawner&c]"
+    buy: 1000000
+    sell: -1
+  9:
+    material: "SPAWNER"
+    spawnertype: "MUSHROOM_COW"
+    displayname: "&c[&bMushroom Cow Spawner&c]"
+    name: "&c[&bMushroom Cow Spawner&c]"
+    buy: 125000
+    sell: -1
+  10:
+    material: "SPAWNER"
+    spawnertype: "PANDA"
+    displayname: "&c[&bPanda Spawner&c]"
+    name: "&c[&bPanda Spawner&c]"
+    buy: 50000
+    sell: -1
+  11:
+    material: "SPAWNER"
+    spawnertype: "PARROT"
+    displayname: "&c[&bParrot Spawner&c]"
+    name: "&c[&bParrot Spawner&c]"
+    buy: 30000
+    sell: -1
+  12:
+    material: "SPAWNER"
+    spawnertype: "PHANTOM"
+    displayname: "&c[&bPhantom Spawner&c]"
+    name: "&c[&bPhantom Spawner&c]"
+    buy: 250000
+    sell: -1
+  13:
+    material: "SPAWNER"
+    spawnertype: "PIGLIN_BRUTE"
+    displayname: "&c[&bPiglin Brute Spawner&c]"
+    name: "&c[&bPiglin Brute Spawner&c]"
+    buy: 2000000
+    sell: -1
+  14:
+    material: "SPAWNER"
+    spawnertype: "RABBIT"
+    displayname: "&c[&bRabbit Spawner&c]"
+    name: "&c[&bRabbit Spawner&c]"
+    buy: 45000
+    sell: -1
+  15:
+    material: "SPAWNER"
+    spawnertype: "SHEEP"
+    displayname: "&c[&bSheep Spawner&c]"
+    name: "&c[&bSheep Spawner&c]"
+    buy: 45000
+    sell: -1
+  16:
+    material: "SPAWNER"
+    spawnertype: "SHULKER"
+    displayname: "&c[&bShulker Spawner&c]"
+    name: "&c[&bShulker Spawner&c]"
+    buy: 500000
+    sell: -1
+  17:
+    material: "SPAWNER"
+    spawnertype: "SKELETON"
+    displayname: "&c[&bSkeleton Spawner&c]"
+    name: "&c[&bSkeleton Spawner&c]"
+    buy: 125000
+    sell: -1
+  18:
+    material: "SPAWNER"
+    spawnertype: "SLIME"
+    displayname: "&c[&bSlime Spawner&c]"
+    name: "&c[&bSlime Spawner&c]"
+    buy: 550000
+    sell: -1
+  19:
+    material: "SPAWNER"
+    spawnertype: "SPIDER"
+    displayname: "&c[&bSpider Spawner&c]"
+    name: "&c[&bSpider Spawner&c]"
+    buy: 45000
+    sell: -1
+  20:
+    material: "SPAWNER"
+    spawnertype: "SQUID"
+    displayname: "&c[&bSquid Spawner&c]"
+    name: "&c[&bSquid Spawner&c]"
+    buy: 100000
+    sell: -1
+  21:
+    material: "SPAWNER"
+    spawnertype: "STRIDER"
+    displayname: "&c[&bStrider Spawner&c]"
+    name: "&c[&bStrider Spawner&c]"
+    buy: 45000
+    sell: -1
+  22:
+    material: "SPAWNER"
+    spawnertype: "WITCH"
+    displayname: "&c[&bWitch Spawner&c]"
+    name: "&c[&bWitch Spawner&c]"
+    buy: 500000
+    sell: -1
+  23:
+    material: "SPAWNER"
+    spawnertype: "WOLF"
+    displayname: "&c[&bWolf Spawner&c]"
+    name: "&c[&bWolf Spawner&c]"
+    buy: 250000
+    sell: -1
+  24:
+    material: "SPAWNER"
+    spawnertype: "ZOMBIE"
+    displayname: "&c[&bZombie Spawner&c]"
+    name: "&c[&bZombie Spawner&c]"
+    buy: 120000
+    sell: -1
+  25:
+    material: "SPAWNER"
+    spawnertype: "ZOMBIFIED_PIGLIN"
+    displayname: "&c[&bZombified Piglin Spawner&c]"
+    name: "&c[&bZombified Piglin Spawner&c]"
+    buy: 120000
     sell: -1
 
 #==================== Workstations ====================#

@@ -70,7 +70,7 @@ ShopSections:
     material: "POTION"
     displayname: "&d&lPotions + Tipped Arrows"
     potion-glow: true
-    place: 40
+    place: 31
 
   Redstone:
     enable: true

@@ -80,11 +80,11 @@ ShopSections:
     lore:
     - "&4&lFor all redstone geeks!"
 
-  Spawners:
-    enable: false
-    material: "SPAWNER"
-    displayname: "&8&lSpawners"
-    place: 31
+  # Spawners:
+  #   enable: false
+  #   material: "SPAWNER"
+  #   displayname: "&8&lSpawners"
+  #   place: 31
 
   Workstations:
     enable: true

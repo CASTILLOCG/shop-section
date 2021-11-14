@@ -81,7 +81,7 @@ ShopSections:
     - "&4&lFor all redstone geeks!"
 
   Spawners:
-    enable: true
+    enable: false
     material: "SPAWNER"
     displayname: "&8&lSpawners"
     place: 31

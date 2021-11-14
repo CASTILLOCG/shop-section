@@ -385,7 +385,7 @@ leveleventmoney20/25/30: 50
 # NOTE: Changing any of the below settings requires a server restart to take effect
 
 # If you set this to 'false' you can only place spawners that are bought, you won't be able to get them back with an (Silk Touch) pickaxe.
-enable-spawnerbreak: true
+enable-spawnerbreak: false
 
 # When this option is set to false, you will no longer be able to place spawners bought from the shop with the EconomyShopGUI spawner system.
 enable-spawnerplace: true
@@ -395,17 +395,17 @@ player-placed-spawners-drop-exp: false
 
 # Set the items that are allowed to break a spawner
 # If a spawner gets broken with another item then listed here, the spawner will not be given to the player
-spawner-break-tools:
+# spawner-break-tools:
 
-  1:
-    material: DIAMOND_PICKAXE
-    enchantments:
-    - "SILK_TOUCH"
-  2:
-    material: IRON_PICKAXE
-  3:
-    material: NETHERITE_PICKAXE
-    enchantments:
-      - "SILK_TOUCH"
+#   1:
+#     material: DIAMOND_PICKAXE
+#     enchantments:
+#     - "SILK_TOUCH"
+#   2:
+#     material: IRON_PICKAXE
+#   3:
+#     material: NETHERITE_PICKAXE
+#     enchantments:
+#       - "SILK_TOUCH"
 
 # NOTE: When any other 3rd party spawner provider is enabled and setup, these options will no longer work since they are not controlled anymore by ESGUI

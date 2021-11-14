@@ -1,41 +1,6 @@
-# Config.yml of EconomyShopGUI
-#
 # More info about all of the options can be found at the EconomyShopGUI wiki
 # https://gpplugins.gitbook.io/economyshopgui/file-configuration/config.yml
-####################################################################################
-#                                                                                  #
-#            ##############          ########                                      #
-#            ##############         ########                                       #
-#            ##                    ##                                              #
-#            ##                   ##                                               #
-#            ##                    ##                                              #
-#            ########               #######           ############                 #
-#            ########                #######          ############                 #
-#            ##                            ##                                      #
-#            ##                             ##                                     #
-#            ##                            ##                                      #
-#            ##############         ########                                       #
-#            ##############        ########                                        #
-#                                                                                  #
-#                                                                                  #
-#                                                                                  #
-#              ###########           ##             ##      ########               #
-#             #############          ##             ##        ####                 #
-#            ##                      ##             ##         ##                  #
-#           ##                       ##             ##         ##                  #
-#           ##                       ##             ##         ##                  #
-#           ##   #########           ##             ##         ##                  #
-#           ##   ##########          ##             ##         ##                  #
-#           ##            ##         ##             ##         ##                  #
-#           ##             ##        ##             ##         ##                  #
-#            ##           ##          ##           ##          ##                  #
-#             #############            #############          ####                 #
-#              ###########              ###########         ########               #
-#                                                                                  #
-#                                                                                  #
-#                                                                                  #
-####################################################################################
-#
+
 config-version: 1.1.6
 # WARNING: Do not change this value as this might end up in a plugin that does not work!!
 #----------------------------------------------Language-------------------------------------------------
@@ -44,7 +9,6 @@ config-version: 1.1.6
 language-file: lang-en.yml
 
 # See this link for all available language files: https://gpplugins.gitbook.io/economyshopgui/file-configuration/languages#currently-supported-languages
-
 
 #-----------------------------------------------Locale--------------------------------------------------
 
